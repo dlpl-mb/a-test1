@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://dlpl-mb.github.io/a-test1/](https://dlpl-mb.github.io/a-test1/) öffnen
 
-## Als Erweiterung verwenden
+## Als Erweiterung verwenden Bachinger
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
